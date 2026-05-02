@@ -1,0 +1,15 @@
+# node
+node_modules/
+
+# env files
+.env
+
+# expo
+.mobile/
+.expo/
+
+# mobile/frontend
+mobile/
+
+# logs
+npm-debug.log
